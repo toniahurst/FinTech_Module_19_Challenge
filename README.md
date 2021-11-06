@@ -8,12 +8,18 @@ In this challenge, we acted as a fintech engineer for a large, global banking in
 ## Images
 Fig. 1: The blockchain and ledger
 
-![Fig 1 - The blockchain and ledger](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_1.png)
+![Fig 1 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-1.png)
 
 
 Fig. 2: The validated chain produces a "true" result
 
-![Fig 2 - The validated chain produces a "true" result](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Mod_18_Fig_2.png)
+![Fig 2 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-2.png)
+
+![Fig 3 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-3.jpeg)
+
+![Fig 4 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-4.jpeg)
+
+![Fig 5 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-5.jpeg)
 
 [To download a movie version of the blockchain exercise, click here:](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Screen%20Recording%202021-11-01%20at%201.16.25%20PM.mov)
 
