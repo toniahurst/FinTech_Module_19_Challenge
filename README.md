@@ -2,7 +2,9 @@
 
 # Background
 
-In this challenge, we acted as a fintech engineer for a large, global banking interest. As lead developer for the decentralized finance team, we built a blockchain-based ledger system, complete with a user-friendly web interface to transfer money between senders and receivers (see Fig. 1). The app is also able to verify the integrity of the data in the ledger rendering an "output" true if the chain is valid (see Fig. 2).
+In this challenge, we developed a disrutpive platform called Fintech Finder whose purpose was to locate, hire, and pay candidates them through an app integrated with the Ethereum block chain and using cryptocurrency for payment. We used two python files: fintech_finder.py (which is Streamlit compatible and provides the web interface for our app) and crypto_wallet.py (which conatins the Ethereum functions to process the transaction and is imported in fintech_finder.py). 
+
+For the purpose of this simulation, we assumed the role of a customer who generates an Ethereum account instance using a menmonic seed phrase. We fectehd and siplayed our account balance associated with our Eyerieym account, calculated the value of the Etheruem transaction including the gas estimaye for the work to be done, and digitally signed a transaction which we reviewd at the Kovan website. 
 
 # Images
 ### Figure 1
