@@ -23,8 +23,6 @@ Fig. 2: The validated chain produces a "true" result
 ![Fig 5 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-5.jpeg)
 
 
-[To download a movie version of the blockchain exercise, click here:](https://github.com/toniahurst/FinTech_Module_18_Challenge/blob/main/Screen%20Recording%202021-11-01%20at%201.16.25%20PM.mov)
-
 ## Technologies
 
 This program uses Python 3.7.10, Anaconda version 4.10.3, Visual Studio Code 1.61.0 and Streamlit, version 0.84.2. It was written on macOS Catalina 10.15.7.
