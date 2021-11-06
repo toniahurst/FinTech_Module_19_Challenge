@@ -11,6 +11,7 @@ Fig. 1: The blockchain and ledger
 ![Fig 1 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-1.png)
 
 
+
 Fig. 2: The validated chain produces a "true" result
 
 ![Fig 2 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-2.png)
