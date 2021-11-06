@@ -29,17 +29,17 @@ This program uses Python 3.7.10, Anaconda version 4.10.3, Visual Studio Code 1.6
 
 ### Other Imports
 #### import streamlit as st
-from dataclasses import dataclass
-from typing import Any, List
-import os
-import requests
-from dotenv import load_dotenv
-load_dotenv()
-from bip44 import Wallet
-from web3 import Account
-from web3.auto.infura.kovan import w3
-from web3 import middleware
-from web3.gas_strategies.time_based import medium_gas_price_strategy
+#### from dataclasses import dataclass
+#### from typing import Any, List
+#### import os
+#### import requests
+#### from dotenv import load_dotenv
+#### load_dotenv()
+#### from bip44 import Wallet
+#### from web3 import Account
+#### from web3.auto.infura.kovan import w3
+#### from web3 import middleware
+#### from web3.gas_strategies.time_based import medium_gas_price_strategy
 
 ## Usage
 To use this app, you will need to download to a computer running Streamlit. 
