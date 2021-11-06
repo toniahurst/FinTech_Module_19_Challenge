@@ -13,14 +13,19 @@ fintech_finder home screen
 ![Fig 1 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-1.png)
 
 ### Figure 2
+Kovan Testnet Network
 
 Fig. 2: The validated chain produces a "true" result
 ![Fig 2 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-2.png)
 
 ### Figure 3
+Testnet transaction screen
+
 ![Fig 3 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-3.jpeg)
 
 ### Figure 4
+Validated transaction hash.
+
 ![Fig 4 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-4.jpeg)
 
 ### Figure 5
