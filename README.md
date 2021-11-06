@@ -20,6 +20,7 @@ Fig. 2: The validated chain produces a "true" result
 ![Fig 4 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-4.jpeg)
 
 ## Figure 5
+Transaction Details - Sender to Receiver
 ![Fig 5 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-5.jpeg)
 
 
