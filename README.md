@@ -28,7 +28,7 @@ Fig. 2: The validated chain produces a "true" result
 This program uses Python 3.7.10, Anaconda version 4.10.3, Visual Studio Code 1.61.0 and Streamlit, version 0.84.2. It was written on macOS Catalina 10.15.7.
 
 ### Other Imports
-####import streamlit as st
+#### import streamlit as st
 from dataclasses import dataclass
 from typing import Any, List
 import os
