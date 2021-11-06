@@ -8,10 +8,12 @@ For the purpose of this simulation, we assumed the role of a customer who genera
 
 # Images
 ### Figure 1
+fintech_finder home screen
 
 ![Fig 1 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-1.png)
 
 ### Figure 2
+
 Fig. 2: The validated chain produces a "true" result
 ![Fig 2 - ](https://github.com/toniahurst/FinTech_Module_19_Challenge/blob/main/images/Figure-2.png)
 
